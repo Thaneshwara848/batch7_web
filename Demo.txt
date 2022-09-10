@@ -1,0 +1,31 @@
+Full Stack ...!													MEAN 						MERN 
+Front End  
+
+			HTML 
+			CSS===> BootStracp 
+			JS ---->    AngualrJS									Angular .JS 		REact .js 
+					React JS 
+					NODE ,js 
+					Express.js 
+					Vew.js 
+					Vennilla JS 
+					Ember .JS 
+					etc .....................
+					JS
+
+Middel Ware 
+			java 												Express JS 			Express.js
+					server : TOmcat 									Node.js 				nodeJS
+			Python 
+					HTTP
+			.net 
+					IIS 
+
+Back end 		
+			MYSQL												MongoDB			MongoDB 	
+
+
+			
+
+
+	
