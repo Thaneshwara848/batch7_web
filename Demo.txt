@@ -27,5 +27,73 @@ Back end
 
 			
 
+Tags :
 
+	Heading : h1- h6 
+	P , br , hr 
+	UL , OL , Li ,types ="A/a/I/i/1" 
+	Tables :Table , TR , td , th , rowspan and col span , cellpadding  cellspacing
+	Forms
+	images 
+			with link , buttons , 
+			Audio and vedion
+			Emojis 
+			SUb , sup 
+			Map : 
+			
 	
+
+	CSS 
+		Cascafding Style Sheet 
+
+		3 typs : 
+				1) 	inline : <h1 style=">
+			 	2) Internal or embaded : <style > h1{ color="red " ; }
+				3 ) external : saparate css file 
+
+	Selecttors  :
+		Class 
+		Id
+		tag
+		multiple tag selectopr 
+		univercel : * 
+
+	3 )Box Model 
+	text 
+	font 
+	backgroung 
+		color 
+		imge 
+	
+
+	2 / 3 
+	Float 
+	
+
+
+
+
+
+HTML  : static web page 
+CSS  : look and feel , style , 
+Bootstracp :  many ready made class we  have , so that we can seemore more look and feel 
+
+
+ 4 link  : 
+	
+
+bg color 
+text color
+ grid 
+
+
+
+
+
+
+
+
+
+
+
+
